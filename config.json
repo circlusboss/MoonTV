@@ -82,11 +82,11 @@
       "name": "豪华资源"
     }
      "黑木耳": {
-      "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://xml.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳资源站"
   }
     
       "茅台": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
 }
